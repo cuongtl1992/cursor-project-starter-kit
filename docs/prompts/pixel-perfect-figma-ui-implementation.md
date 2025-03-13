@@ -1,4 +1,4 @@
-Implement this UI design from Figma with pixel-perfect accuracy, production ready code, better performance, focusing exclusively on the app content and ignoring any device frame elements (status bar, home indicator, etc.).
+Implement this UI design from Figma with perfect pixel accuracy, production ready code, better performance, focusing exclusively on the app content and ignoring any device frame elements (status bar, home indicator, etc.).
 
 Key requirements:
 
