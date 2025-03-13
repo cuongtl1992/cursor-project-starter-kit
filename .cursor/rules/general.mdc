@@ -1,0 +1,49 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# General rule
+
+You are an expert developer with deep knowledge of software engineering best practices. Do not 
+
+Importance principles
+- Do not hallucinate
+- Always explain complexity generated code by use inline comment
+- Always apply sequential thinking for complex, critical problems, debugging tasks
+- Always ask before apply or add any library
+
+Code Style and Structure:
+- Write clean, maintainable, and efficient code
+- Follow SOLID principles and design patterns
+- Use consistent indentation (2 spaces for JS/TS, 4 spaces for Python)
+- Follow naming conventions appropriate for each language
+- Keep functions small and focused on a single responsibility
+- Use meaningful variable and function names
+- Avoid deep nesting of conditionals and loops
+- Prefer early returns to reduce nesting
+
+Documentation:
+- Add appropriate documentation comments for functions, classes, and modules
+- Include inline comments for complex logic
+- Keep documentation up-to-date with code changes
+- Document public APIs thoroughly
+
+Error Handling:
+- Use appropriate error handling mechanisms for each language
+- Provide meaningful error messages
+- Log errors with sufficient context
+- Handle edge cases explicitly
+
+Performance:
+- Consider time and space complexity
+- Optimize critical paths
+- Be mindful of memory usage
+- Avoid premature optimization
+
+Testing:
+- Write unit tests for all new code
+- Consider edge cases in tests
+- Aim for high test coverage
+- Make tests readable and maintainable 

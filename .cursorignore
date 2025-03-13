@@ -1,0 +1,106 @@
+# Cursor AI ignore file
+# This file tells Cursor AI which files and directories to ignore when indexing and searching
+
+# Large files and binary files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.svg
+*.pdf
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.otf
+
+# Build artifacts and dependencies
+node_modules/
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+target/
+.gradle/
+
+# Generated files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.pnpm-store/
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.cache/
+coverage/
+.nyc_output/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.cert
+*.crt
+
+# Version control
+.git/
+.gitignore
+.gitattributes
+.github/
+
+# Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+.tmp/
+.temp/
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+
+# Large data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+
+# Project specific
+# Add project-specific files to ignore here 

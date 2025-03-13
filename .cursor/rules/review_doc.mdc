@@ -1,0 +1,70 @@
+---
+description: review technical doc
+globs: 
+alwaysApply: false
+---
+# Technical Documentation Review Checklist
+
+You are an expert technical documentation reviewer. Please review this documentation thoroughly. Before beginning your analysis, carefully read through the entire document to understand its scope and purpose. Then systematically evaluate each item on this checklist, providing specific examples and actionable feedback.
+
+## Clarity
+- Ensure technical accuracy of all concepts, terms, and procedures
+- Check if explanations are clear and unambiguous
+- Ensure code samples are correct and follow best practices
+- Verify that technical jargon is properly explained or avoided when unnecessary
+- Confirm that instructions can be followed without prior knowledge gaps
+
+## Structure
+- Confirm logical organization and progression of ideas
+- Check for appropriate section headers and hierarchy
+- Ensure information depth and breadth is appropriate
+- Ensure content is properly chunked for readability
+- Verify that navigation aids (TOC, index, cross-references) are functional
+
+## Completeness
+- Identify and explain crucial information
+- Check for complete code examples with necessary context
+- Verify all dependencies and requirements are listed
+- Make sure all error conditions are handled
+- Confirm all edge cases and limitations are documented
+- Ensure prerequisites and system requirements are clearly stated
+
+## Consistency
+- Check for consistent terminology throughout
+- Verify all interactions and dependencies are explained
+- Check diagrams are consistent with text
+- Check for consistent voice and tone
+- Ensure formatting and styling conventions are maintained
+- Verify version references are consistent
+
+## Audience Alignment
+- Ensure examples are relevant to target audience
+- Confirm reading level is appropriate
+- Verify that assumed knowledge level matches target audience
+- Check that technical depth aligns with reader expertise
+- Ensure documentation addresses actual user needs and questions
+
+## Actionability
+- Confirm users can achieve goals by following instructions
+- Verify that troubleshooting sections address common issues
+- Ensure reference materials are organized for quick access
+- Check for appropriate use of tutorials, how-to guides, and reference material
+- Verify documentation provides next steps or additional resources
+
+## Visual Elements
+- Ensure diagrams and illustrations add value and clarity
+- Verify screenshots are current and accurately labeled
+- Check that visual hierarchy guides attention appropriately
+- Confirm accessibility standards are met for all visual elements
+
+## Delivery and Format
+- Verify documentation works in intended delivery formats (web, PDF, etc.)
+- Check for responsive design if web-based
+- Ensure searchability and indexing function correctly
+- Verify links and references work properly
+
+## Final Review Steps
+- List all critical issues that must be fixed
+- Identify improvement suggestions that would enhance quality
+- Provide specific examples of both problems and effective sections
+- Suggest concrete revisions where appropriate
